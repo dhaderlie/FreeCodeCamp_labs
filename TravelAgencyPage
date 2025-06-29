@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Travel Agency Page</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Travel destinations available through the Travel Agency">
+  </head>
+  <body>
+    <h1>Travel Destinations</h1>
+    <p>The following options are the currently available travel opportunities through the Travel Agency.</p>
+    <h4>Salmon River: Jet Boat down the Salmon River with stops at a few historical locations including Buckskin Bill's house
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://res.cloudinary.com/dhlsxlkrc/image/upload/v1751235946/salmonRiver_orgyix.jpg" alt="Jet Boat on the Salmon River" style="display: block; margin: auto; width: 100%;">
+        </a>
+        <figcaption style="text-align: center;">Jet Boat on the Salmon River</figcaption>
+      </figure>
+    </h4>
+    <h4>Hells Canyon: Jet boat down Hell's Canyon, the United States' deepest river gorge, even deeper than the Grand Canyon.
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://res.cloudinary.com/dhlsxlkrc/image/upload/v1751235946/hellsCanyon_vlzbj1.jpg" alt="Jet Boat on the Hells Canyon River" style="display: block; margin: auto; width: 100%;">
+        </a>
+        <figcaption>Jet Boat on the Hells Canyon River</figcaption>
+      </figure>
+    </h4>
+    <h4>South Fork: This rafting adventure is a one week float trip. We camp on the beach of the river in a different location each night.
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://res.cloudinary.com/dhlsxlkrc/image/upload/v1751235946/SouthFork_hxwnls.jpg" alt="Rafting on the South Fork of the Salmon River" style="display: block; margin: auto; width: 100%;">
+        </a>
+        <figcaption>Rafting on the South Fork of the Salmon River</figcaption>
+      </figure>
+    </h4>
+    <h4>Henry's Fork: This rafting adventure is a two-day fishing float trip. We camp on the beach of the river in a different location each night.
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://res.cloudinary.com/dhlsxlkrc/image/upload/v1751235946/henrysFork_zerlqy.jpg" alt="Rafting on Henry's Fork of the Snake River" style="display: block; margin: auto; width: 100%;">
+        </a>
+        <figcaption>Rafting on Henry's Fork of the Snake River</figcaption>
+      </figure>      
+    </h4>
+
+    <h2>Packages</h2>
+    <p>Browse our all-inclusive packages.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <ol>
+      <li>Hells Canyon Jet Boat Tour</li>
+      <li>South Fork River Rafting Trip</li>
+      <li>Salmon River Jet Boat Tour</li>
+    </ol>
+  </body>
+</html>
