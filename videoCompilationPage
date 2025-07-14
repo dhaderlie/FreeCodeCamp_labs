@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Create your own lego builds</h1>
+        <p>You can find information and videos that help you learn how to create your own custom lego designs.</p>
+        <section>
+            <h2>BrickLink Studio Tutorial with Boone</h2>
+            <p>Boone shows you how to use the bricklink studio to create custom lego builds.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BUxP1A4NLGE?si=GsoSV6saH6QA4lZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Top 10 BrickLink Tips and Tricks</h2>
+            <p>Boon shares his top 10 tips and tricks for using BrickLink Studio.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/REDNc-P-4tU?si=2glKG4OIM_l1wcXW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>How to use BrickLink Studio</h2>
+            <p>This is anoter video on how to use BrickLink Studio from the Brick Science YouTube Channel. </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/dqDTjeoGRcU?si=RPXMk78GK_vt9BZ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section> 
+    </main>
+</body>
+
+</html>
